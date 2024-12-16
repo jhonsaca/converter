@@ -1,6 +1,7 @@
 # Currency converter
 ## Conversor de divisas
   Proyecto realizado por: ***Jhon Saca***.<br>
+  El proyecto ha sido realizado en el lenguaje Java. <br>
   Este proyecto integra la API *Exchange Rate*, para poder realizar las conversiones entre diferentes monedas, actualmente con solo 6 opciones:
 > 1. Dólares (USD) - Pesos Argentinos (ARS)
 > 2. Pesos Argentinos (ARS) - Dólares (USD)
